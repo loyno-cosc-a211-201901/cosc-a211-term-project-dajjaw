@@ -1,0 +1,7 @@
+Fri Dec 13 13:31:38 CST 2019
+compilation is fine
+Not sure how to enter "arc" or "jump"... degrees?  inches?
+not many comments
+
+Fri Dec 13 13:33:10 CST 2019
+program is less than 100 lines for a semester project -- not very much
